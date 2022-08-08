@@ -1,6 +1,6 @@
 # css-purchase-form
 
-You'ra given an HTML file with the markup for a purchase form.
+You're given an HTML file with the markup for a purchase form.
 Using only CSS, style the purchase form to have the following characteristics:
 
 - The #wrapper should have 12px of padding, a border radius of 12px, and a 
