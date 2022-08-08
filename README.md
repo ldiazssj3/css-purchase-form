@@ -47,7 +47,8 @@ specified pixel values and colors.
   
       
       
-        
+ ![image](https://user-images.githubusercontent.com/86803055/183487217-9690ac27-877c-4429-8887-3acd3a3545cf.png)
+
           
           
         
