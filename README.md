@@ -3,15 +3,15 @@
 It is requested to build an html with the following characteristics:
 
 An ordered list with the following items
-  -Product Selection
-  -Payment method
-  -Payment Form
-  -Purchase Success
+  - Product Selection
+  - Payment method
+  - Payment Form
+  - Purchase Success
 
 An unordered list with the following items:
-  -blue product
-  - network product
-  -orange product
+  - blue product
+  - red product
+  - orange product
   - green product
   
   CSS:
