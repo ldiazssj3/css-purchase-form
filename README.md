@@ -1,7 +1,20 @@
 # css-purchase-form
 
-You're given an HTML file with the markup for a purchase form.
-Using only CSS, style the purchase form to have the following characteristics:
+It is requested to build an html with the following characteristics:
+
+An ordered list with the following items
+  -Product Selection
+  -Payment method
+  -Payment Form
+  -Purchase Success
+
+An unordered list with the following items:
+  -blue product
+  - network product
+  -orange product
+  - green product
+  
+  CSS:
 
 - The #wrapper should have 12px of padding, a border radius of 12px, and a 
 background color of #e0e0e0.
